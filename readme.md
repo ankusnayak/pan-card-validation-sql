@@ -11,7 +11,7 @@ This project showcases SQL skills such as **pattern matching, constraints, and d
 number adheres to the official format and is categorized as either Valid or Invalid. 
 - **Technology Used**: SQL (PostgreSQL RDBMS).
 - **Dataset**: A sample dataset of PAN card entries (valid & invalid). (The dataset is given in a separate Excel file.)
-- **PAN Validation Requirements and Constrains**: [PAN Validation Project Requirements (PDF)](https://github.com/ankusnayak/pan-card-validation-sql/blob/main/problem_statement/PAN%20Number%20Validation%20-%20Problem%20Statement.pdf)
+- **PAN Validation Requirements and Constrains**: [PAN Card Validation Requirements and Problem Statement (PDF)](https://github.com/ankusnayak/pan-card-validation-sql/blob/main/problem_statement/PAN%20Number%20Validation%20-%20Problem%20Statement.pdf)
 
 ---
 
